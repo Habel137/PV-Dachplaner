@@ -1,8 +1,11 @@
 # PV-Dachplaner
 
-Ein kostenloser, browserbasierter Planer für eine erste, manuelle Photovoltaik-Belegung von Dachflächen.
+**[PV-Dachplaner direkt im Browser öffnen](https://habel137.github.io/PV-Dachplaner/)**
 
-Der PV-Dachplaner ist ein Community-Projekt. Du kannst ihn verwenden, untersuchen, verändern und verbessern. Beiträge, Fehlerberichte und neue Ideen sind willkommen.
+Ein kostenloser, browserbasierter Planer zur Erstellung einer eigenen Photovoltaik-Belegung.
+
+Mit dem PV-Dachplaner können Dachflächen anhand eines eigenen Luftbildes eingezeichnet und mit Solarmodulen belegt werden.
+
 
 ## Funktionen
 
